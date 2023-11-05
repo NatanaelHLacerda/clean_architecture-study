@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798258232913",
+    "project_id": "injector-5e2d4",
+    "storage_bucket": "injector-5e2d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798258232913:android:ba0211623591622e680270",
+        "android_client_info": {
+          "package_name": "com.example.injector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_0grZlnfKH9c28MhSs2hbTApWTLzvvoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
