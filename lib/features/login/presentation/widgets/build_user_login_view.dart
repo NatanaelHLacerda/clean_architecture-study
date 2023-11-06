@@ -74,7 +74,7 @@ class _BuildUserLoginViewState extends State<BuildUserLoginView> {
                       isLoading = true;
                     });
 
-                    Future.delayed(const Duration(seconds: 0))
+                    Future.delayed(const Duration(seconds: 2))
                         .then((_) => widget.bloc.dispatchEvent(LoginEventSignIn(
                               email: emailController.text,
                               password: passwordController.text,
